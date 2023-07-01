@@ -1,0 +1,28 @@
+body{
+  color: #fff;
+  background-color: #000;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
+section{
+  background-color: orange;
+  padding: 10px 10px;
+  width: 400px;
+  height: 150px;
+}
+.d-flex{
+  display:flex
+}
+.arow-text{
+  
+  border-radius: 50%;
+  border:solid 2px;
+  border-color: #fff;
+  padding: 10px 11px;
+  margin-right: 10%;
+}
+.text2{
+  margin-left: 15px;
+}
